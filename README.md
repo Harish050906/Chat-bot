@@ -1,17 +1,18 @@
 # madical-chatbot
 clone the repository
 
-'''bash
+'''   1 bash
 git clone https://github.com/Harish050906/Chat-bot.git
 '''
-'''bash
+
+'''   2 bash
 conda create -n medibot python=3.10 -y
 '''
 
-'''bash 
+'''   3 bash 
 conda activate medibot
 '''
 
-'''bash
+'''   4 bash
 pip install -r requirements.txt
 '''
